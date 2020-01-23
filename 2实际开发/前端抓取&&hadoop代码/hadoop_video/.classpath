@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="JAVAEE_LIB/javaee.jar"/>
+	<classpathentry kind="var" path="JAVAEE_LIB/jsf-api.jar"/>
+	<classpathentry kind="var" path="JAVAEE_LIB/jsf-impl.jar"/>
+	<classpathentry kind="var" path="JAVAEE_LIB/jstl-1.2.jar"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>

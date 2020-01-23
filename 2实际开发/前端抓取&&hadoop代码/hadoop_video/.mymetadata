@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+	type="WEB"
+	name="hadoop_video"
+	id="myeclipse.1569999653136"
+	context-root="/hadoop_video"
+	j2ee-spec="5.0"
+	archive="hadoop_video.war">
+	<attributes>
+		<attribute name="webrootdir" value="WebContent" />
+	</attributes>
+</project-module>

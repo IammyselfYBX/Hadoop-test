@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><projectDescription>
+	<name>hadoop_video</name>
+	<comment/>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.genuitec.eclipse.j2eedt.core.webnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.drxhome.web.creator.natures.webappnature</nature>
+	</natures>
+</projectDescription>
